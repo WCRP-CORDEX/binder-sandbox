@@ -11,7 +11,7 @@ dependencies:
   - regionmask=0.9.0
   - setuptools
   - xarray=2022.10.0
-  - cf_xarray=0.7.4
+  - cf_xarray>=0.8
   - cftime=1.6.2
   - netCDF4=1.6.1
   - xesmf
