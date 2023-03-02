@@ -26,5 +26,6 @@ dependencies:
   - aiohttp=3.8.3
   - nbgitpuller
   - esgf-pyclient
-  - pip:
-    - git+https://github.com/euro-cordex/py-cordex.git # always use master for now
+  - py-cordex>=0.5
+#  - pip:
+#    - git+https://github.com/euro-cordex/py-cordex.git # always use master for now
