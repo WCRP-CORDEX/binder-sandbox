@@ -28,6 +28,8 @@ dependencies:
   - nbgitpuller
   - esgf-pyclient
   - s3fs
+  - dask
+  - dask-labextension
   - py-cordex>=0.5
 #  - pip:
 #    - git+https://github.com/euro-cordex/py-cordex.git # always use master for now
