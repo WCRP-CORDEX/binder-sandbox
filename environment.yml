@@ -21,11 +21,13 @@ dependencies:
   - python-cdo
   - intake-esm
   - ghp-import
-  - fsspec=2022.10.0
+  - fsspec
+  - flox
   - requests
   - aiohttp=3.8.3
   - nbgitpuller
   - esgf-pyclient
+  - s3fs
   - py-cordex>=0.5
 #  - pip:
 #    - git+https://github.com/euro-cordex/py-cordex.git # always use master for now
