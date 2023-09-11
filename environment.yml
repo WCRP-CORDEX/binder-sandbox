@@ -30,6 +30,6 @@ dependencies:
   - s3fs
   - dask
   - dask-labextension
-  - py-cordex>=0.5
+  - py-cordex>=0.6
 #  - pip:
 #    - git+https://github.com/euro-cordex/py-cordex.git # always use master for now
